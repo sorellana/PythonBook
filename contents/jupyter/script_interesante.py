@@ -8,6 +8,6 @@ def funcion_interesante(n):
     else:
         return n * funcion_interesante(n-1)
 
+
 if __name__ == '__main__':
     print(funcion_interesante(10))
-        
