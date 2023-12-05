@@ -1,4 +1,4 @@
-# Computación Científica con Python
+# Computación Científica con Python kjsabdiusabdas
 
 Un libro virtual diseñado como recurso de aprendizaje para los estudiantes del curso de Computación Científica con Python (INFO147) de la carrera de Ingeniería Civil en Informática de la Universidad Austral de Chile. El libro fue escrito por Pablo Huijse y está en continuo desarrollo.
 
